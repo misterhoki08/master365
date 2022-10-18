@@ -130,3 +130,23 @@ section > header > span > .lang{
     font-family: sans-serif;
     color: white;
 }
+
+.bg-loading {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.8);
+    z-index: 9999;
+    top: 0;
+    display: none;
+}
+
+.content-loading {
+    position: absolute;
+    width: 90%;
+    height: auto;
+    top: 24%;
+    left: 5%;
+    margin-top: -50px;
+    overflow: hidden;
+}
