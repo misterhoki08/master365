@@ -143,10 +143,10 @@ section > header > span > .lang{
 
 .content-loading {
     position: absolute;
-    width: 90%;
+    width: 100%;
     height: auto;
-    top: 24%;
-    left: 5%;
+    top: 44%;
+    left: 25%;
     margin-top: -50px;
     overflow: hidden;
 }
