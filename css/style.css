@@ -74,7 +74,7 @@ section > header > span > .lang{
     border: 0px;
     width: 100vw;
     height: auto;
-    min-height: 163px;
+    min-height: 161px;
     margin-top: -10px;
     overflow: hidden;
 }
@@ -83,7 +83,7 @@ section > header > span > .lang{
     background: none;
     border: 0px;
     width: 100vw;
-    height: 43px;
+    height: 42px;
     overflow: hidden;
 }
 
