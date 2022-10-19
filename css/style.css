@@ -70,7 +70,7 @@ section > header > span > .lang{
 }
 
 .slider{
-    background: none;
+    background: black;
     border: 0px;
     width: 100vw;
     height: auto;
@@ -80,7 +80,7 @@ section > header > span > .lang{
 }
 
 .running-text{
-    background: none;
+    background: black;
     border: 0px;
     width: 100vw;
     height: 42px;
@@ -88,6 +88,7 @@ section > header > span > .lang{
 }
 
 .slot-update{
+    background: black;
     width: 100%;
     height: 268px;
     border: 0px;
